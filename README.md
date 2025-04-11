@@ -34,6 +34,9 @@ Each time you run it, it cheers you on with a motivational message!
 - 🌟 (Optional) Extendable for AI-powered prompts using OpenAI
 
 ---
+![Screenshot (659)](https://github.com/user-attachments/assets/ce1db563-4fdf-476c-8efd-80dbeeb277f1)
+![Screenshot (660)](https://github.com/user-attachments/assets/6f331b9a-b244-4259-a785-59df6d49b822)
+
 
 ## 🛠️ Getting Started
 
