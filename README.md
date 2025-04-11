@@ -1,15 +1,45 @@
-# 🌸 Gratitude CLI
+# 🌸 Gratitude CLI Journal 🌸  
+*A cozy command-line journal to reflect, smile, and stay thankful.*
 
-A simple command-line gratitude journal that helps you reflect on the good in your day!
+> “Even on rough days, there’s always a little light. Let’s find it 🌱”
 
-## Features
-- Add daily gratitude entries
-- View past entries
-- Splash screen & motivational tip of the day
+---
 
-## Getting Started
+## 💖 What is this?
 
-### Clone this repo:
+Gratitude CLI is a **simple, beautiful command-line journal** that lets you jot down what you're thankful for each day. It’s built for minimalism and mindfulness, helping you form a healthy daily habit ✨
+
+---
+
+## ✨ Features
+
+🎀 **Add a Gratitude Entry**  
+Write what you’re thankful for and it gets saved right away.
+
+📜 **View Past Entries**  
+Look back and remember the little joys 💫
+
+🌈 **Get a Daily Gratitude Prompt**  
+Need inspiration? Let the app gently nudge you with a randomized thoughtful prompt 💌
+
+🎉 **Splash Screen & Motivational Quote**  
+Each time you run it, it cheers you on with a motivational message!
+
+---
+
+## 🧰 Tech Stack
+
+- 🐍 Python
+- 📟 Command Line Interface (CLI)
+- 🌟 (Optional) Extendable for AI-powered prompts using OpenAI
+
+---
+
+## 🛠️ Getting Started
+
+> No worries if you're new! Follow these steps to get it running on your machine:
+
+### 1. 🌿 Clone this repo:
 ```bash
-git clone https://github.com/your-username/gratitude-cli.git
+git clone https://github.com/Reeteka/gratitude-cli.git
 cd gratitude-cli
